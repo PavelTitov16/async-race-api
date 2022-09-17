@@ -3,23 +3,23 @@ const jsonServer = require('json-server');
 const db = {
     garage: [
         {
-            "name": "Tesla",
-            "color": "#e6e6fa",
+            "name": "Toyota Supra",
+            "color": "#f74d28",
             "id": 1,
         },
         {
-            "name": "BMW",
-            "color": "#fede00",
+            "name": "Nissan Skyline",
+            "color": "#0746e8",
             "id": 2,
         },
         {
-            "name": "Mersedes",
-            "color": "#6c779f",
+            "name": "Dodge Charger",
+            "color": "#1c1b19",
             "id": 3,
         },
         {
-            "name": "Ford",
-            "color": "#ef3c40",
+            "name": "BMW M3",
+            "color": "#fede00",
             "id": 4,
         },
     ],
